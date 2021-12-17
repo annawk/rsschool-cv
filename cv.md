@@ -7,6 +7,9 @@
 
 * Discord: Anna(@annawk)
 
+## About me
+My name is Anna. Recently I tried to make a website and passed several tasks at HTML Academy. I liked it, so I decided to go to Udemy and learn how to code. I want to becоme a junior front-end developer.
+
 ## Skills
 * HTML (basics)
 
