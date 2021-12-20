@@ -1,3 +1,6 @@
+![Avatar](avatar.png)
+
+
 # Anna Landgraf
 
 ## Contacts
