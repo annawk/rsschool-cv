@@ -55,7 +55,7 @@ header {
     margin-right: 16px;
 }
 
-.subheader-list {
+.subheader-list, .contacts-link {
     text-decoration: none;
     color: #afa5a5;
 }
@@ -107,4 +107,25 @@ h3 {
     font-size: 40px;
     margin-top: 40px;
     color: #afa5a5;
+}
+.contacts {
+    position: fixed;
+}
+.contacts-wrapper {
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+
+.contacts-item {
+    color: #767676;
+    margin-top: 5px;
+}
+.contacts-list {
+    list-style-type: none;
+}
+
+
+main {
+    width: 70%;
 }
