@@ -25,13 +25,13 @@ header {
 .header-avatar {
     width: 30%;
     background-color: #ffffff;
-    
+    border-radius: 14px 0 0 0;
 }
 
-.header-icon {
-    border-radius: 14px 0 0 0;
+.header-icon {    
     width: 100%;
 }
+
 .subheader {
     display: flex;
     flex-direction: column;
@@ -81,17 +81,18 @@ h1 {
 }
 .wrapper-main {
     display: flex;
+    justify-content: space-between;
 }
 
-.block-left {
+.wrapper-left {
     display: flex;
     width: 30%;
     padding-left: 20px;
-
 }
 
 .contacts {
     position: fixed;
+    padding-left: 20px;
 }
 .contacts-wrapper {
     font-size: 25px;
@@ -116,16 +117,41 @@ h3 {
     margin-top: 30px;
 }
 
-
 .contacts-item {
     color: #767676;
     margin-top: 5px;
 }
-.contacts-list {
+.contacts-list, .skills-item {
     list-style-type: none;
 }
 
-
-main {
+.wrapper-right {
     width: 70%;
 }
+
+.aboutme  {
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.skills-wrapper {
+    margin-top: 30px;   
+    display: flex;
+}
+
+.skills-item {
+    display: flex;
+    align-items: center;
+    margin-top: 35px;
+    font-size: 30px;
+    padding-left: 10px;
+      
+}
+
+.skills-icon {
+    width: 49px;
+    height: 49px;
+    margin-top: 16px;;
+}
+
+
