@@ -30,6 +30,7 @@ header {
 
 .header-icon {    
     width: 100%;
+    border-radius: 14px;
 }
 
 .subheader {
@@ -104,7 +105,7 @@ h1 {
     margin-top: 5px;
 }
 
-h3 {
+.title-main, .title-contacts {
     font-size: 40px;
     margin-top: 40px;
     color: #afa5a5;
@@ -129,13 +130,18 @@ h3 {
     width: 70%;
 }
 
+.main-about {
+    padding-right: 10px;
+}
+
 .aboutme  {
-    font-size: 20px;
+    font-size: 22px;
     margin-top: 30px;
+    line-height: 35px;
 }
 
 .skills-wrapper {
-    margin-top: 30px;   
+    margin-top: 10px;   
     display: flex;
 }
 
@@ -152,6 +158,41 @@ h3 {
     width: 49px;
     height: 49px;
     margin-top: 16px;;
+}
+
+.code-wrapper {
+    margin-top: 30px;
+    margin-left: 52px;
+    font-size: 20px;
+    background-color: #1b1b1b;
+    width: 60%;
+    height: 70px;
+    border-radius: 12px;
+    text-align: center;
+    line-height: 65px;
+}
+.line-code {
+    margin-top: 58px;
+}
+.courses-wrapper {
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.title-courses {
+    font-size: 30px;
+    margin-top: 15px;
+}
+.courses-list {
+    margin-top: 4px;
+    margin-left: 54px;
+    display: flex;
+    flex-direction: column;
+    font-size: 22px;
+}
+
+.courses-list li {
+    padding: 10px;
 }
 
 
