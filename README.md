@@ -1,1 +1,1 @@
-https://annawk.github.io/rsschool-cv/
+https://annawk.github.io/rsschool-cv/cv
