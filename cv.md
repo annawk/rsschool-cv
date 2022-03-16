@@ -1,10 +1,10 @@
-![Avatar](avatar.png)
+![Avatar](/assets/img/avatar.png)
 
 
 # Anna Landgraf
 
 ## Contacts
-* Email:     mojito@solipse.ru 
+* Email:      annawk2022@gmail.com 
 
 * Github: annawk  
 
